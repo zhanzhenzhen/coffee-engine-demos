@@ -1,0 +1,23 @@
+{
+    "name": "coffee-engine-demos",
+    "version": "1.0.0-alpha002",
+    "description": "Coffee engine demos.",
+    "keywords": ["game", "app", "coffeescript"],
+    "author": "Zhenzhen Zhan <zhanzhenzhen@hotmail.com>",
+    "homepage": "https://github.com/zhanzhenzhen/coffee-engine-demos",
+    "licenses": [{
+        "type": "MIT",
+        "url": "https://github.com/zhanzhenzhen/coffee-engine-demos/blob/master/LICENSE.txt"
+    }],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/zhanzhenzhen/coffee-engine-demos.git"
+    },
+    "engines": {
+        "node": ">=0.8.0"
+    },
+    "scripts": {
+        "start": "node server.js"
+    },
+    "subdomain": "coffee-engine-demos"
+}

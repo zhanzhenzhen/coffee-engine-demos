@@ -1,2 +1,2 @@
-coffee-engine-demos
-===================
+Coffee Engine Demos
+=====
